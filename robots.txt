@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mashlanzer.github.io/casa-fresca-florida/sitemap.xml
